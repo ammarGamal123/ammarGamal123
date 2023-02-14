@@ -1,9 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ammar Hammad</h1>
-- 🌱 I’m currently learning **C# & ASP.NET Framework**
-
-- 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/ammar-hammad/](https://www.linkedin.com/in/ammar-hammad/)
-
-- 💬 Ask me about **C/C++ , Competitive Programming & Problem Solving**
+<h3 align="center">Competitive programmer | Ecpc finalist | Mentor at ACM FCAI BSU</h3>
 
 - 📫 How to reach me **contact.ammarhammar@gmail.com**
 
