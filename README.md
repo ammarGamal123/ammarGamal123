@@ -1,11 +1,14 @@
 <h1 align="center">Hi 👋, I'm Ammar Hammad</h1>
 <h3 align="center">Competitive programmer | Ecpc finalist | Mentor at ACM FCAI BSU</h3>
 
+- 🌱 I’m currently learning **C# , ASP.NET Framework**
+
 - 📫 How to reach me **contact.ammarhammar@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/ammar hammad." target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ammar hammad." height="30" width="40" /></a>
+<a href="https://medium.com/ammarhammad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="ammarhammad" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/ammarhammad" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="ammarhammad" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/ammar_hammad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="ammar_hammad" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/ammar_hammad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ammar_hammad" height="30" width="40" /></a>
