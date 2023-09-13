@@ -15,6 +15,11 @@
 - 💬 Ask me about my experience with C++, C#, and Competitive Programming.
 - ⚡ Fun Fact: I'm a coffee enthusiast and my perfect day would start and end with a cup of coffee.
 
+<p>
+<a href="https://www.hackerrank.com/ammarhammad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="ammarhammad" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/ammar_hammad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="ammar_hammad" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/ammar_hammad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ammar_hammad" height="30" width="40" /></a>
+</p>
 
 ### Connect with Me :
 
