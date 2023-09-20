@@ -38,8 +38,8 @@
 
 
 
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ammarhammad&show_icons=true&locale=en&layout=compact&theme=radical" alt="most used languages" />
-<br>
-<a href="https://komarev.com/ghpvc/?username=ammarhammad&style=for-the-badge">
-    <img src="https://komarev.com/ghpvc/?username=ammarhammad&style=for-the-badge">
-</a>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ammargamal123&show_icons=true&locale=en&layout=compact" alt="ammargamal123" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ammargamal123&show_icons=true&locale=en" alt="ammargamal123" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ammargamal123&" alt="ammargamal123" /></p>
