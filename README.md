@@ -22,6 +22,8 @@
 <a href="https://www.leetcode.com/ammar_hammad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ammar_hammad" height="30" width="40" /></a>
 </p>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ammarGamal123&label=Profile%20views&color=0e75b6&style=flat" alt="ammarGamal123" /> </p>
+
 ### Connect with Me :
 
 <a href="https://linkedin.com/in/ammar-hammad" target="_blank"><img src="https://img.shields.io/badge/-Ammar%20Hammad-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
