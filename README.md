@@ -11,7 +11,7 @@ I'm a passionate software engineer with an engineering mindset—focused on buil
 
 ## 💻 Tech Stack
 
-**Languages**: C/C++, C#, JavaScript, TypeScript, HTML, CSS  
+**Languages**: C/C++, C#, 
 **Interests**: Exploring technologies & frameworks to build scalable systems  
 **Specialization**: Backend architecture, performance optimization, clean code
 
