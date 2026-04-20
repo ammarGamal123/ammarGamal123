@@ -5,6 +5,9 @@
 
 I'm a passionate software engineer with an engineering mindset—focused on building **robust, high-performance applications** using the right tools for the job. My problem-solving background drives me to write **clean, efficient code** that delivers exceptional results.
 
+[![committers.top badge](https://user-badge.committers.top/egypt_private/ammarGamal123.svg)](https://user-badge.committers.top/egypt_private/ammarGamal123)
+
+
 **Main Focus**: Backend development & system architecture  
 **Philosophy**: Technology-agnostic engineer who prioritizes solid solutions over specific stacks  
 **Goal**: Build perfect networking, databases, and backend systems
